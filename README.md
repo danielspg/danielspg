@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Privacy Preserving AI projects**
 
-- ⚡ What I like: **writing books, reading, cricket...and doing research of course**
+- ⚡ What I like: **writing books, reading books, playing cricket...and doing research of course**
   
 - 🚗 Recent Work:
   
