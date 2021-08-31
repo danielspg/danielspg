@@ -1,6 +1,6 @@
 <h1 align="center">Hi👋 Visitor, Greetings!
 <h3 align="center">
-  I'm a budding researcher doing my masters in Information Security. 
+  I'm a budding researcher doing my Masters in Information Security @ IIT Jammu 
   <br> My life is driven by the joy of creating new piece of human knowledge
  </h3>
 
@@ -13,7 +13,19 @@
 - 👯 I’m looking to collaborate on **Privacy Preserving AI projects**
 
 - ⚡ What I like: **writing books, reading, cricket...and doing research of course**
+  
+- 🚗 Recent Work:
+  
+  1. Created New Aggregation strategy for Federated Learning named it <a href="https://github.com/danielspg/flower/blob/testing_FedAvgGrad/src/py/flwr/server/strategy/FedAvgGrad.py">FedAvgGrad</a>.
+     This strategy can be later modified for prevention of Data Poisoning Attacks on Federated Learning.
+  2. Created Examples: <a href="https://github.com/danielspg/flower/tree/testing_FedAvgGrad/examples/pytorch_mnist_FedAvgGrad">pytorch_mnist_FedAvgGrad</a> ,
+ <a href="https://github.com/danielspg/flower/tree/testing_FedAvgGrad/examples/quickstart_pytorch_FedAvgGrad"> quickstart_pytorch_FedAvgGrad </a>
+  to showcase the utilization of this strategy in Federated Learning scenario.
+  
 
+  
+  
+  
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
