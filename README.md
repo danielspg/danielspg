@@ -3,7 +3,8 @@
   I'm a budding researcher doing my Masters in Information Security @ IIT Jammu 
   <br> My life is driven by the joy of creating new piece of human knowledge
  </h3>
-
+in/> </p>
+  
 - 🔭 I’m currently doing research on **SplitFed Learning**
 
 - 🎯 I'm interested in **Privacy Preserving AI, Federated Learning, Split Learning, SplitFed Learning**
@@ -86,3 +87,7 @@
 </p> -->
 
 ------
+
+
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=danielspg alt=danielspg/> </p>
+
