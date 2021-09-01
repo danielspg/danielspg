@@ -87,7 +87,3 @@ in/> </p>
 </p> -->
 
 ------
-
-
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=danielspg alt=danielspg/> </p>
-
