@@ -3,7 +3,7 @@
   I'm a budding researcher doing my Masters in Information Security @ IIT Jammu 
   <br> My life is driven by the joy of creating new piece of human knowledge
  </h3>
-in/> </p>
+ </p>
   
 - 🔭 I’m currently doing research on **SplitFed Learning**
 
